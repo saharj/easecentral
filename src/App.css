@@ -1,0 +1,24 @@
+.App {
+  padding: 10px;
+}
+.title, .comments, .info {
+  display: inline-block;
+}
+.post {
+  max-width: 60%;
+  margin: 10px auto;
+}
+.empty, .full {
+  width: 20px;
+  height: 20px;
+  padding: 10px 20px;
+}
+.link {
+  margin: 0 20px;
+}
+.info {
+  float: right;
+}
+.full {
+  display: none;
+}
